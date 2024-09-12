@@ -1,3 +1,4 @@
 # python-programming
-python programming.
+python programming
+
 #python 
